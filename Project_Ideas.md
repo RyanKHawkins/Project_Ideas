@@ -1,2 +1,2 @@
-# Project_Ideas
-A collection of projects ideas.
+# Project Ideas
+##### A collection of projects ideas.
